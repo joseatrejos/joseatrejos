@@ -4,31 +4,44 @@ I've recently graduated from my __Multimedia Production and Software Engineering
 
 I'm enthusiastic when designing DB architectures, as well as whenever I implement good practices on a team level for the projects we're currently involved in. I'm a team player.
 
-## ⚡ Technologies
+<br />
 
-### Languages
+## ⚡ <span style="color:white">Technologies</span>
 
-![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white)
+<hr /><br />
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&duration=10000&color=F7F7F7&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Programming+and+Markup+Languages)](https://git.io/typing-svg)
+
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?logo=javascript&logoColor=black&color=F7DF1C)
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D27?logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
 
-### Frameworks
+<br />
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%A7%B0++Frameworks)](https://git.io/typing-svg)
 
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?flat-square&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![DjangoREST](https://img.shields.io/badge/Django-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-404d59?logo=express&logoColor=61DAFB)
 ![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?logo=strapi&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-white.svg?logo=jinja&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white)
 
-### Databases
+<br />
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%97%84%EF%B8%8F+Databases)](https://git.io/typing-svg)
 
 ![MySQL](https://img.shields.io/badge/MySQL-00f?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?logo=sqlite&logoColor=white)
@@ -39,7 +52,9 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
 ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?logo=Cockroach%20Labs&logoColor=white)
 
-### Devops
+<br />
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%94%8C+Devops)](https://git.io/typing-svg)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Apache2](https://img.shields.io/badge/Apache2-D42029?logo=apache&logoColor=white)
@@ -50,7 +65,9 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
 
-### Tools
+<br />
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%94%A7+Tools)](https://git.io/typing-svg)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)
@@ -61,25 +78,38 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Bash-%23121011.svg?logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?logo=windows-terminal&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff)
-![Trello](https://img.shields.io/badge/Trello-026AA7?logo=Trello&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=5849BE)
+![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-white?logo=insomnia&logoColor=5849BE)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)
 ![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?logo=yarn&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?logo=symfony&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-026AA7?logo=Trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?logo=codepen&logoColor=black)
 
-### Game Development
+<br />
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%8E%AE+Game+Development)](https://git.io/typing-svg)
 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-%23313131.svg?logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?logo=opengl)
 
-### Multimedia Software
+<br />
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%92%BB+Multimedia+Software)](https://git.io/typing-svg)
 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white)
@@ -88,14 +118,21 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?logo=Adobe%20Audition&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?logo=LibreOffice&logoColor=white)
 
-### 📊 Github Stats
+<br />
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%93%8A+Github+Stats)](https://git.io/typing-svg)
+
 
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joseatrejos&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
 </div>
+
+<br />
 
 You can reach out to me through these social networks:
 
@@ -106,5 +143,5 @@ You can reach out to me through these social networks:
 [![Discord badge](https://img.shields.io/badge/-joseatrejos%233196-7289da?logo=Discord&logoColor=white)](https://discordapp.com/users/323880953137332234)
 [![Linkedin badge](https://img.shields.io/badge/-joseatrejos-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseatrejos/)
 [![Gmail badge](https://img.shields.io/badge/-joseatrejos@gmail.com-red?logo=gmail&logoColor=white)](mailto:joseatrejos@gmail.com)
-  
+
 </div>

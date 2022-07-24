@@ -109,8 +109,8 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=joseatrejos&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseatrejos&theme=dark)](https://git.io/streak-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=joseatrejos&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseatrejos&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 

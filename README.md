@@ -2,7 +2,8 @@
 
 I've recently graduated from my __Multimedia Production and Software Engineering__ degree from [Universidad La Salle Noroeste](https://www.lasallenoroeste.edu.mx/). My main languages are __Spanish__ and __English__, but I also know __French__ enough to have intermediate level conversations. I mainly work as __Project Manager__ and __Product Owner__, but also dedicate part of my time working as a __Fullstack Web Developer__ in _Python_ and _PHP_, particularly in Django/FastAPI and Laravel frameworks.  
 I'm enthusiastic when designing DB architectures, as well as whenever I implement good practices on a team level for the projects we're currently involved in. I'm a team player.
-### ⚡ <span style="color:white">Technologies</span>
+
+### ⚡ <span style="color:white;font-size:16px;">Technologies</span>
 <hr />
 
 ##### ![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&height=18&font=Arial&size=18&duration=10000&color=F7F7F7&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Programming+and+Markup+Languages)
@@ -109,7 +110,8 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joseatrejos&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?vCenter=true&height=18user=joseatrejos&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseatrejos&theme=dark)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">

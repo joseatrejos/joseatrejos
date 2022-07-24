@@ -1,5 +1,3 @@
-
-
 # My name is __José Trejo__, I am 27 years old from __Sonora, México__ 🏜
 
 I've recently graduated from my __Multimedia Production and Software Engineering__ degree from [Universidad La Salle Noroeste](https://www.lasallenoroeste.edu.mx/). My main languages are __Spanish__ and __English__, but I also know __French__ enough to have intermediate level conversations. I mainly work as __Project Manager__ and __Product Owner__, but also dedicate part of my time working as a __Fullstack Web Developer__ in _Python_ and _PHP_, particularly in Django/FastAPI and Laravel frameworks.  
@@ -106,8 +104,7 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?logo=LibreOffice&logoColor=white)
 
-#### ![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&height=18&font=Arial&size=18&color=F7F7F7&lines=%F0%9F%93%8A+Github+Stats)
-
+### 📊 Github Stats
 
 <div align="center">
 

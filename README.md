@@ -94,7 +94,6 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?logo=opengl)
 
 #### ![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&height=18&font=Arial&size=18&color=F7F7F7&lines=%F0%9F%92%BB+Multimedia+Software)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=F7F7F7&lines=%F0%9F%93%8A+Github+Stats)](https://git.io/typing-svg)
 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white)

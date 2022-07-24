@@ -1,14 +1,11 @@
 # My name is __José Trejo__, I am 27 years old from __Sonora, México__ 🏜
 
-I've recently graduated from my __Multimedia Production and Software Engineering__ degree from [Universidad La Salle Noroeste](https://www.lasallenoroeste.edu.mx/). My main languages are __Spanish__ and __English__, but I also know __French__ enough to have intermediate level conversations. I mainly work as __Project Manager__ and __Product Owner__, but also dedicate part of my time working as a __Fullstack Web Developer__ in _Python_ and _PHP_, particularly in Django/FastAPI and Laravel frameworks.
-
+I've recently graduated from my __Multimedia Production and Software Engineering__ degree from [Universidad La Salle Noroeste](https://www.lasallenoroeste.edu.mx/). My main languages are __Spanish__ and __English__, but I also know __French__ enough to have intermediate level conversations. I mainly work as __Project Manager__ and __Product Owner__, but also dedicate part of my time working as a __Fullstack Web Developer__ in _Python_ and _PHP_, particularly in Django/FastAPI and Laravel frameworks.  
 I'm enthusiastic when designing DB architectures, as well as whenever I implement good practices on a team level for the projects we're currently involved in. I'm a team player.
-
-### ⚡ <span style="color:#FFFFFF; font-size:1.5 em;">Technologies</span>
-
+### ⚡ <span style="color:white">Technologies</span>
 <hr />
 
-##### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&duration=10000&color=F7F7F7&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Programming+and+Markup+Languages)](https://git.io/typing-svg)
+##### ![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&height=18&font=Arial&size=18&duration=10000&color=F7F7F7&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Programming+and+Markup+Languages)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -22,7 +19,7 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
 
-#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%A7%B0++Frameworks)](https://git.io/typing-svg)
+#### ![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&height=18&font=Arial&size=18&color=F7F7F7&lines=%F0%9F%A7%B0++Frameworks)
 
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
@@ -35,7 +32,7 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Jinja](https://img.shields.io/badge/Jinja-white.svg?logo=jinja&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white)
 
-#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%97%84%EF%B8%8F+Databases)](https://git.io/typing-svg)
+#### ![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&height=18&font=Arial&size=18&color=F7F7F7&lines=%F0%9F%97%84%EF%B8%8F+Databases)
 
 ![MySQL](https://img.shields.io/badge/MySQL-00f?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?logo=sqlite&logoColor=white)
@@ -46,7 +43,7 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
 ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?logo=Cockroach%20Labs&logoColor=white)
 
-#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%94%8C+Devops)](https://git.io/typing-svg)
+#### ![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&height=18&font=Arial&size=18&color=F7F7F7&lines=%F0%9F%94%8C+Devops)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Apache2](https://img.shields.io/badge/Apache2-D42029?logo=apache&logoColor=white)
@@ -57,7 +54,7 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
 
-#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%94%A7+Tools)](https://git.io/typing-svg)
+#### ![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&height=18&font=Arial&size=18&color=F7F7F7&lines=%F0%9F%94%A7+Tools)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)
@@ -88,14 +85,14 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?logo=codepen&logoColor=black)
 
-#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%8E%AE+Game+Development)](https://git.io/typing-svg)
+#### ![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&height=18&font=Arial&size=18&color=F7F7F7&lines=%F0%9F%8E%AE+Game+Development)
 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-%23313131.svg?logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?logo=opengl)
 
-#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%92%BB+Multimedia+Software)](https://git.io/typing-svg)
+#### ![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&height=18&font=Arial&size=18&color=F7F7F7&lines=%F0%9F%92%BB+Multimedia+Software)
 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white)
@@ -107,26 +104,21 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?logo=LibreOffice&logoColor=white)
 
-#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%93%8A+Github+Stats)](https://git.io/typing-svg)
+#### ![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&height=18&font=Arial&size=18&color=F7F7F7&lines=%F0%9F%93%8A+Github+Stats)
 
 
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joseatrejos&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseatrejos&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?vCenter=true&height=18user=joseatrejos&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
 
-<br />
-
-You can reach out to me through these social networks:
-
 <div align="center">
+You can reach out to me through these social networks:
 
 [![Instagram badge](https://img.shields.io/badge/-@joseatrejos-ff69b4?logo=instagram&logoColor=white)](https://instagram.com/joseatrejos)
 [![Twitter badge](https://img.shields.io/badge/-@joseatrejos-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/joseatrejos)
 [![Discord badge](https://img.shields.io/badge/-joseatrejos%233196-7289da?logo=Discord&logoColor=white)](https://discordapp.com/users/323880953137332234)
 [![Linkedin badge](https://img.shields.io/badge/-joseatrejos-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseatrejos/)
 [![Gmail badge](https://img.shields.io/badge/-joseatrejos@gmail.com-red?logo=gmail&logoColor=white)](mailto:joseatrejos@gmail.com)
-
 </div>

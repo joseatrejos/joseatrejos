@@ -107,6 +107,8 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 
 ### 📊 Github Stats
 
+<hr />
+
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joseatrejos&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0D1117)
@@ -114,9 +116,7 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 
 <br />
   
-You can reach out to me through these social networks:
-
-<br />
+__You can reach out to me through these social networks:__
 
 [![Instagram badge](https://img.shields.io/badge/-@joseatrejos-ff69b4?logo=instagram&logoColor=white)](https://instagram.com/joseatrejos)
 [![Twitter badge](https://img.shields.io/badge/-@joseatrejos-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/joseatrejos)

@@ -4,7 +4,7 @@ I've recently graduated from my __Multimedia Production and Software Engineering
 
 I'm enthusiastic when designing DB architectures, as well as whenever I implement good practices on a team level for the projects we're currently involved in. I'm a team player.
 
-### ⚡ <span style="color:white">Technologies</span>
+### ⚡ <span style="color:white; font-size:1.5 em;">Technologies</span>
 
 <hr />
 

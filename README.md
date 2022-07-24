@@ -4,14 +4,6 @@ I've recently graduated from my __Multimedia Production and Software Engineering
 
 I'm enthusiastic when designing DB architectures, as well as whenever I implement good practices on a team level for the projects we're currently involved in. I'm a team player.
 
-You can reach out to me through these social networks:
-
-[![Instagram badge](https://img.shields.io/badge/-@joseatrejos-ff69b4?logo=instagram&logoColor=white)](https://instagram.com/joseatrejos)
-[![Twitter badge](https://img.shields.io/badge/-@joseatrejos-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/joseatrejos)
-[![Discord badge](https://img.shields.io/badge/-joseatrejos%233196-7289da?logo=Discord&logoColor=white)](https://discordapp.com/users/323880953137332234)
-[![Linkedin badge](https://img.shields.io/badge/-joseatrejos-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseatrejos/)
-[![Gmail badge](https://img.shields.io/badge/-joseatrejos@gmail.com-red?logo=gmail&logoColor=white)](mailto:joseatrejos@gmail.com)
-
 ## ⚡ Technologies
 
 ### Languages
@@ -97,9 +89,22 @@ You can reach out to me through these social networks:
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?logo=Adobe%20Audition&logoColor=white)
 
-<!-- Github Stats -->
+### 📊 Github Stats
+
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joseatrejos&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
+</div>
+
+You can reach out to me through these social networks:
+
+<div align="center">
+
+[![Instagram badge](https://img.shields.io/badge/-@joseatrejos-ff69b4?logo=instagram&logoColor=white)](https://instagram.com/joseatrejos)
+[![Twitter badge](https://img.shields.io/badge/-@joseatrejos-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/joseatrejos)
+[![Discord badge](https://img.shields.io/badge/-joseatrejos%233196-7289da?logo=Discord&logoColor=white)](https://discordapp.com/users/323880953137332234)
+[![Linkedin badge](https://img.shields.io/badge/-joseatrejos-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseatrejos/)
+[![Gmail badge](https://img.shields.io/badge/-joseatrejos@gmail.com-red?logo=gmail&logoColor=white)](mailto:joseatrejos@gmail.com)
+  
 </div>

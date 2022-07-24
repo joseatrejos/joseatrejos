@@ -8,8 +8,6 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 
 ## ⚡ <span style="color:white">Technologies</span>
 
-<hr /><br />
-
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&duration=10000&color=F7F7F7&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Programming+and+Markup+Languages)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
@@ -24,8 +22,6 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
 
-<br />
-
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%A7%B0++Frameworks)](https://git.io/typing-svg)
 
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
@@ -39,8 +35,6 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Jinja](https://img.shields.io/badge/Jinja-white.svg?logo=jinja&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white)
 
-<br />
-
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%97%84%EF%B8%8F+Databases)](https://git.io/typing-svg)
 
 ![MySQL](https://img.shields.io/badge/MySQL-00f?logo=mysql&logoColor=white)
@@ -52,8 +46,6 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
 ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?logo=Cockroach%20Labs&logoColor=white)
 
-<br />
-
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%94%8C+Devops)](https://git.io/typing-svg)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
@@ -64,8 +56,6 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
-
-<br />
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%94%A7+Tools)](https://git.io/typing-svg)
 
@@ -98,16 +88,12 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?logo=codepen&logoColor=black)
 
-<br />
-
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%8E%AE+Game+Development)](https://git.io/typing-svg)
 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-%23313131.svg?logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?logo=opengl)
-
-<br />
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%92%BB+Multimedia+Software)](https://git.io/typing-svg)
 
@@ -121,15 +107,14 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?logo=LibreOffice&logoColor=white)
 
-<br />
-
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=18&color=F7F7F7&lines=%F0%9F%93%8A+Github+Stats)](https://git.io/typing-svg)
 
 
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joseatrejos&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseatrejos&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseatrejos&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 </div>
 
 <br />

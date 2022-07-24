@@ -105,7 +105,7 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?logo=LibreOffice&logoColor=white)
 
-#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&vCenter=true&color=F7F7F7&lines=%F0%9F%93%8A+Github+Stats)](https://git.io/typing-svg)
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&height=18&vCenter=true&color=F7F7F7&lines=%F0%9F%93%8A+Github+Stats)](https://git.io/typing-svg)
 
 <div align="center">
 

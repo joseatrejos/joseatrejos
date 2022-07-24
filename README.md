@@ -97,4 +97,8 @@ You can reach out to me through these social networks:
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?logo=Adobe%20Audition&logoColor=white)
 
 <!-- Github Stats -->
+<div align="center">
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=joseatrejos&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+
+</div>

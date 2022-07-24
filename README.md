@@ -112,14 +112,16 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Stats](https://github-readme-stats.vercel.app/api?username=joseatrejos&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0D1117)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseatrejos&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-</div>
-
-<div align="center">
+<br />
+  
 You can reach out to me through these social networks:
+
+<br />
 
 [![Instagram badge](https://img.shields.io/badge/-@joseatrejos-ff69b4?logo=instagram&logoColor=white)](https://instagram.com/joseatrejos)
 [![Twitter badge](https://img.shields.io/badge/-@joseatrejos-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/joseatrejos)
 [![Discord badge](https://img.shields.io/badge/-joseatrejos%233196-7289da?logo=Discord&logoColor=white)](https://discordapp.com/users/323880953137332234)
 [![Linkedin badge](https://img.shields.io/badge/-joseatrejos-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseatrejos/)
 [![Gmail badge](https://img.shields.io/badge/-joseatrejos@gmail.com-red?logo=gmail&logoColor=white)](mailto:joseatrejos@gmail.com)
+
 </div>

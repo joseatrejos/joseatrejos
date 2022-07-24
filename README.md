@@ -1,4 +1,4 @@
-# My name is __José Trejo__, I'm 27 years old. From __Hermosillo__, __Sonora__ in __México__ 🏜
+# My name is José Trejo, I'm 27 years old. From Hermosillo, Sonora in México 🏜
 
 I've recently graduated from my __Multimedia Production and Software Engineering__ degree from [Universidad La Salle Noroeste](https://www.lasallenoroeste.edu.mx/). My main languages are __Spanish__ and __English__, but I also know __French__ enough to have intermediate level conversations. I mainly work as __Project Manager__ and __Product Owner__, but also dedicate part of my time working as a __Fullstack Web Developer__ in _Python_ and _PHP_, particularly in _Django/FastAPI_ and _Laravel_ frameworks.
 

@@ -109,7 +109,7 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=joseatrejos&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color:0D1117)
+![Stats](https://github-readme-stats.vercel.app/api?username=joseatrejos&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0D1117)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseatrejos&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>

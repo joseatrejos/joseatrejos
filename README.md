@@ -98,6 +98,8 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![OnlyOffice](https://img.shields.io/badge/OnlyOffice-%2318A303?logo=OnlyOffice&logoColor=white)
 
 <br />
+
+<div align="center">
   
 __You can reach out to me through these social networks:__
 

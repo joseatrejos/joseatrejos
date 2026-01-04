@@ -15,11 +15,6 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D27?logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?logo=node.js&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
 
 #### ![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&height=18&font=Arial&size=18&color=F7F7F7&lines=%F0%9F%A7%B0++Frameworks)
 
@@ -29,8 +24,6 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/Django-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-404d59?logo=express&logoColor=61DAFB)
-![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?logo=strapi&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-white.svg?logo=jinja&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white)
 
@@ -41,14 +34,14 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Postgres](https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
-![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?logo=Cockroach%20Labs&logoColor=white)
 
 #### ![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&height=18&font=Arial&size=18&color=F7F7F7&lines=%F0%9F%94%8C+Devops)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Apache2](https://img.shields.io/badge/Apache2-D42029?logo=apache&logoColor=white)
+![NGINX](https://img.shields.io/badge/nginx-D4202?logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/caddy-D4202?logo=caddy&logoColor=blue)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
 ![Bitvise SSH](https://img.shields.io/badge/Bitvise_SSH_Client-2185D0?logo=google-cloud&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?logo=oracle&logoColor=white)
@@ -81,7 +74,6 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101)
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-026AA7?logo=Trello&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?logo=codepen&logoColor=black)
@@ -103,7 +95,7 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?logo=Adobe%20Audition&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?logo=LibreOffice&logoColor=white)
+![OnlyOffice](https://img.shields.io/badge/OnlyOffice-%2318A303?logo=OnlyOffice&logoColor=white)
 
 #### ![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&height=18&font=Arial&size=18&color=F7F7F7&lines=%F0%9F%93%8A+Github+Stats)
 

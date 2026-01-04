@@ -97,13 +97,6 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)
 ![OnlyOffice](https://img.shields.io/badge/OnlyOffice-%2318A303?logo=OnlyOffice&logoColor=white)
 
-#### ![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&height=18&font=Arial&size=18&color=F7F7F7&lines=%F0%9F%93%8A+Github+Stats)
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=joseatrejos&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0D1117)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseatrejos&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
 <br />
   
 __You can reach out to me through these social networks:__

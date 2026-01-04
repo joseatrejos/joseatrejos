@@ -60,7 +60,6 @@ I'm enthusiastic when designing DB architectures, as well as whenever I implemen
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?logo=atom&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-7DC58D.svg?logo=notepad%2b%2b&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?logo=sublime-text&logoColor=important)
